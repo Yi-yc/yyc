@@ -2,8 +2,7 @@
 
 void main()
 {
-    // Initialize the system
-    System_Init();
+ 
 
     // Main loop
     while (1)
