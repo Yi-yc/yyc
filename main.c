@@ -8,7 +8,9 @@ void main()
 
     uint8_t a;
     uint8_t b;
+    uint8_t c;
     
+
     while (1)
     {
         // Perform main tasks
